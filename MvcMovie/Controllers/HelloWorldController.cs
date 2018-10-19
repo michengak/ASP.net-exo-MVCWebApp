@@ -12,7 +12,7 @@ namespace MvcMovie.Controllers
     public class HelloWorldController : Controller
     {
         // GET: /HelloWorld/
-        public String Index()
+        public string Index()
         {
             return "This is my default action...";
         }
